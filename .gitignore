@@ -1,0 +1,6 @@
+# Python仮想環境を無視
+.venv/
+
+# Pythonのキャッシュファイルを無視
+__pycache__/
+*.pyc
